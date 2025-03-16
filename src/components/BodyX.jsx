@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import "./BodyX.css";
 import category1 from "../assets/category-1.jpg";
 import category2 from "../assets/item-c-3.jpg";
