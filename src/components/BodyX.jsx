@@ -4,7 +4,7 @@ import category1 from "../assets/category-1.jpg";
 import category2 from "../assets/item-c-3.jpg";
 import category3 from "../assets/item-e-1.jpg";
 import category4 from "../assets/category-4.jpg";
-import category5 from "../assets/category-5.jpg";
+// import category5 from "../assets/category-5.jpg";
 import category6 from "../assets/category-6.jpg";
 import category7 from "../assets/zz.jpg";
 import category8 from "../assets/item-d-3.jpg";

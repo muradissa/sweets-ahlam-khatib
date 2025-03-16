@@ -1,5 +1,5 @@
 import React from "react";
-import { FaWhatsapp, FaInstagram, FaMapMarkedAlt } from "react-icons/fa";
+import { FaWhatsapp, FaInstagram } from "react-icons/fa";
 import logo from "../assets/lognobackground.png";
 import "./Header.css";
 
