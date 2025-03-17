@@ -41,15 +41,15 @@ const categoryItems = {
   ],
   "كعكة بطعمات": [
     { id: 6, name: "كعكة البرتقال و الشوكلاته", image: "https://i.imgur.com/qiU10FQ.jpeg", price: "₪50", description: "" },
-    { id: 7, name: "كعكة الفانيليا", image: "https://i.imgur.com/8MDSw9Z.jpeg", price: "₪150-200", description: "" },
+    { id: 7, name: "كعكة موس شوكولاطة", image: "https://i.imgur.com/8MDSw9Z.jpeg", price: "₪150-200", description: "" },
     { id: 9, name: "كعكة جبنه ", image: "https://i.imgur.com/yAu9fbB.jpeg", price: "₪200", description: "" },
     { id: 99, name: "كعكة  ريد ڤيلڤت", image: "https://i.imgur.com/mO9FxYm.jpeg", price: "₪200", description: "" },
-    { id: 8, name: "كعكة الشوكلاته", image: "https://i.imgur.com/sRfWPLt.jpeg", price: "₪150-200", description: "" },
+    { id: 8, name: "كعكة الشوكلاته", image: "https://i.imgur.com/sRfWPLt.jpeg", price: "₪50", description: "" },
   ],
   "مقروطة الكندر": [
     { id: 11, name: "مقروطة نكهات متعددة", image: "https://i.imgur.com/dt6PbRy.jpeg", price: "₪120 الكيلو ", description: "" },
     { id: 12, name: "مشكل مقروطه وزرد منوع", image: "https://i.imgur.com/qBxDVqc.jpeg", price: "₪80", description:"" },
-    { id: 10, name: "مقروطة الشوكلاته", image: "https://i.imgur.com/DhUGCBt.jpeg", price: "₪120 الكيلو ", description: "" },
+    { id: 10, name: "مقروطة كندر", image: "https://i.imgur.com/DhUGCBt.jpeg", price: "₪120 الكيلو ", description: "" },
     { id: 111, name: "مقروطة مانچا", image: "https://i.imgur.com/dt6PbRy.jpeg", price: "₪120 الكيلو ", description: "" },
     { id: 112, name: "مقروطة نوتيلا ", image: "https://i.imgur.com/dt6PbRy.jpeg", price: "₪120 الكيلو ", description: "" },
     { id: 113, name: "مقروطة الذهب الأصفر", image: "https://i.imgur.com/dt6PbRy.jpeg", price: "₪120 الكيلو ", description: "" },
