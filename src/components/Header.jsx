@@ -14,10 +14,10 @@ const Header = ({ selectedCategory, onBackButtonClick }) => {
       {/* Social Media Icons (Hide when a category is selected) */}
       {!selectedCategory && (
         <div className="social-icons">
-          <a href="https://wa.me/your-number" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/+972525863906" target="_blank" rel="noopener noreferrer">
             <FaWhatsapp size={30} className="social-icon whatsapp-icon" />
           </a>
-          <a href="https://instagram.com/your-handle" target="_blank" rel="noopener noreferrer">
+          <a href="https://instagram.com/ahlamkhatib12/" target="_blank" rel="noopener noreferrer">
             <FaInstagram size={30} className="social-icon instagram-icon" />
           </a>
           {/* <a href="https://waze.com/your-location" target="_blank" rel="noopener noreferrer">
