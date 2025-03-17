@@ -94,7 +94,6 @@ const categoryItems = {
     { id: 26, name: "مقروطه وزرد منوع ", image: "https://i.imgur.com/qBxDVqc.jpeg", price: "₪80", description: "" },
     { id: 26, name: "20 حبة حشوات كندر توت دبي فستق حلب", image: "https://i.imgur.com/KrNYaDC.jpeg", price: "₪120", description: "" },
     { id: 26, name: "30 حبه بيتفورم", image: "https://i.imgur.com/UZ0AAnh.jpeg", price: "₪140", description: "" },
-    { id: 26, name: "30 حبه بيتفورم", image: "https://i.imgur.com/Kr98FrM.jpeg", price: "₪140", description: "" },
   ],
   // "حلوى إضافية": [
   //   { id: 25, name: "حلوى البقلاوة", image: "https://via.placeholder.com/150", price: "₪120", description: "" },
